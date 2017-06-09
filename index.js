@@ -1,6 +1,6 @@
 'use strict';
 var Alexa = require("alexa-sdk");
-var appId = undefined; // Removed from repo for security reasons.
+var appId = 'amzn1.ask.skill.ee1d7602-a7b7-493b-a882-95985678570b';
 
 var START_MSG = 'I will think of a number, between one and a hundred. Try to guess, and I will tell you if it' +
                 ' is higher or lower. Are you ready to play?';
